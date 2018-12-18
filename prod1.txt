@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 lets play with brances!
+=======
+This is file prod1.txt from master
+>>>>>>> master
